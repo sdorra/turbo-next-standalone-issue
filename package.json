@@ -1,0 +1,11 @@
+{
+  "name": "pnpm-turbo-next",
+  "version": "1.0.0",
+  "license": "ISC",
+  "scripts": {
+    "build": "turbo run build"
+  },
+  "devDependencies": {
+    "turbo": "^1.2.9"
+  }
+}
